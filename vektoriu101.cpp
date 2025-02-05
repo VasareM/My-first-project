@@ -7,3 +7,7 @@ std::vector <float> vecint;
 
 std::vecint.push_back(a);
 std::cout<< vecint[0];
+
+//
+for (float n:vecint)
+  cout << n; // su kiekvienu isveda
